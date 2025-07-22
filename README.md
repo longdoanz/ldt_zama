@@ -101,3 +101,4 @@ Dự án này được cấp phép theo Giấy phép MIT.
 
 Tuyên bố miễn trừ trách nhiệm: Công nghệ FHE và FHEVM vẫn còn trong giai đoạn thử nghiệm. Hãy tự chịu trách nhiệm khi sử dụng trong môi trường production.Commit 1 line
 Commit 2 line
+Commit 3 line
