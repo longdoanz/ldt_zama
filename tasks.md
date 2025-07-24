@@ -11,3 +11,4 @@
 ## Task 11: Add dashboard UI
 ## Task 12: Connect dashboard to API
 ## Task 13: Style improvements
+## Task 14: Fix responsive layout bug
