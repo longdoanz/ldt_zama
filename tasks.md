@@ -6,3 +6,4 @@
 ## Task 6: Update documentation
 ## Task 7: Implement settings page
 ## Task 8: Refactor authentication code
+## Task 9: Add unit tests for login
