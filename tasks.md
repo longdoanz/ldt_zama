@@ -10,3 +10,4 @@
 ## Task 10: Implement logout feature
 ## Task 11: Add dashboard UI
 ## Task 12: Connect dashboard to API
+## Task 13: Style improvements
