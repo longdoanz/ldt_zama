@@ -9,3 +9,4 @@
 ## Task 9: Add unit tests for login
 ## Task 10: Implement logout feature
 ## Task 11: Add dashboard UI
+## Task 12: Connect dashboard to API
