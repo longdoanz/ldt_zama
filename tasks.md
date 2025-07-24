@@ -7,3 +7,4 @@
 ## Task 7: Implement settings page
 ## Task 8: Refactor authentication code
 ## Task 9: Add unit tests for login
+## Task 10: Implement logout feature
