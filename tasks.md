@@ -12,3 +12,4 @@
 ## Task 12: Connect dashboard to API
 ## Task 13: Style improvements
 ## Task 14: Fix responsive layout bug
+## Task 15: Prepare for v1.0 release
