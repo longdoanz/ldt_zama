@@ -59,9 +59,9 @@ Thanh toán P2P cá nhân: Gửi tiền cho bạn bè và gia đình một cách
 
 ## 🛠️ Bắt đầu
 ### Điều kiện tiên quyết
-Node.js (v18 trở lên)
+- Node.js (v18 trở lên)
 
-Git
+- Git
 
 Trình quản lý gói npm hoặc yarn
 
