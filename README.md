@@ -93,10 +93,10 @@ Chạy script triển khai (ví dụ cho mạng Fhenix testnet):
 
 ```npx hardhat run scripts/deploy.ts --network fhenix```
 
-🤝 Đóng góp
+## 🤝 Đóng góp
 Chúng tôi hoan nghênh các đóng góp từ cộng đồng! Vui lòng fork repository, tạo một nhánh mới cho tính năng của bạn, và gửi một Pull Request.
 
-📜 Giấy phép
+## 📜 Giấy phép
 Dự án này được cấp phép theo Giấy phép MIT.
 
 Tuyên bố miễn trừ trách nhiệm: Công nghệ FHE và FHEVM vẫn còn trong giai đoạn thử nghiệm. Hãy tự chịu trách nhiệm khi sử dụng trong môi trường production.
