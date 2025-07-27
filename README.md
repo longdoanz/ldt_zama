@@ -34,9 +34,9 @@ AuraPay sử dụng các kiểu dữ liệu và toán tử được cung cấp b
 
 - Gọi Smart Contract: Người dùng gọi hàm transfer(address to, bytes memory encryptedAmount) trên contract AuraPay.
 
-Toán tử Đồng cấu (Homomorphic Operations):
+- Toán tử Đồng cấu (Homomorphic Operations):
 
-Smart contract lấy số dư đã mã hóa của người gửi.
+- Smart contract lấy số dư đã mã hóa của người gửi.
 
 Nó thực hiện phép toán FHE.ge(senderBalance, encryptedAmount) để xác minh rằng số dư của người gửi lớn hơn hoặc bằng số tiền chuyển (phép so sánh này trả về một ebool - boolean đã mã hóa).
 
