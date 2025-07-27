@@ -51,11 +51,11 @@ Cập nhật Trạng thái: Các số dư đã mã hóa mới được lưu lạ
 ## 🚀 Các trường hợp sử dụng
 Thanh toán P2P cá nhân: Gửi tiền cho bạn bè và gia đình một cách kín đáo.
 
-Trả lương bí mật: Các công ty có thể trả lương cho nhân viên on-chain mà không để lộ mức lương của bất kỳ ai.
+- Trả lương bí mật: Các công ty có thể trả lương cho nhân viên on-chain mà không để lộ mức lương của bất kỳ ai.
 
-Đầu tư DeFi ẩn danh: Gửi tiền vào các pool thanh khoản hoặc các giao thức DeFi khác mà không tiết lộ quy mô vị thế của bạn.
+- Đầu tư DeFi ẩn danh: Gửi tiền vào các pool thanh khoản hoặc các giao thức DeFi khác mà không tiết lộ quy mô vị thế của bạn.
 
-Airdrop riêng tư: Phân phối token cho người dùng mà không để lộ số lượng mỗi người nhận được.
+- Airdrop riêng tư: Phân phối token cho người dùng mà không để lộ số lượng mỗi người nhận được.
 
 🛠️ Bắt đầu
 Điều kiện tiên quyết
