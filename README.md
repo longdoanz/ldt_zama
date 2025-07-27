@@ -30,9 +30,9 @@ Số dư được mã hóa: Số dư tài khoản của người dùng được 
 ## ⚙️ Cách hoạt động
 AuraPay sử dụng các kiểu dữ liệu và toán tử được cung cấp bởi thư viện FHEVM. Luồng hoạt động của một giao dịch diễn ra như sau:
 
-Mã hóa phía Client: Trước khi gửi giao dịch, người dùng mã hóa số tiền họ muốn chuyển bằng khóa công khai của FHEVM.
+- Mã hóa phía Client: Trước khi gửi giao dịch, người dùng mã hóa số tiền họ muốn chuyển bằng khóa công khai của FHEVM.
 
-Gọi Smart Contract: Người dùng gọi hàm transfer(address to, bytes memory encryptedAmount) trên contract AuraPay.
+- Gọi Smart Contract: Người dùng gọi hàm transfer(address to, bytes memory encryptedAmount) trên contract AuraPay.
 
 Toán tử Đồng cấu (Homomorphic Operations):
 
