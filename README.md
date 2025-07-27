@@ -27,7 +27,7 @@ Giao diện tương tự ERC20: Cung cấp các hàm quen thuộc như transfer(
 
 Chống kiểm duyệt: Vì logic chạy trên một smart contract phi tập trung, không ai có thể ngăn chặn các giao dịch của bạn.
 
-⚙️ Cách hoạt động
+## ⚙️ Cách hoạt động
 AuraPay sử dụng các kiểu dữ liệu và toán tử được cung cấp bởi thư viện FHEVM. Luồng hoạt động của một giao dịch diễn ra như sau:
 
 Mã hóa phía Client: Trước khi gửi giao dịch, người dùng mã hóa số tiền họ muốn chuyển bằng khóa công khai của FHEVM.
@@ -48,7 +48,7 @@ FHE.add(receiverBalance, encryptedAmount) để cộng tiền cho người nhậ
 
 Cập nhật Trạng thái: Các số dư đã mã hóa mới được lưu lại on-chain. Toàn bộ quá trình diễn ra mà không một nút mạng, thợ đào, hay người quan sát nào có thể biết được số tiền giao dịch là bao nhiêu.
 
-🚀 Các trường hợp sử dụng
+## 🚀 Các trường hợp sử dụng
 Thanh toán P2P cá nhân: Gửi tiền cho bạn bè và gia đình một cách kín đáo.
 
 Trả lương bí mật: Các công ty có thể trả lương cho nhân viên on-chain mà không để lộ mức lương của bất kỳ ai.
