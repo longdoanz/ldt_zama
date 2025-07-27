@@ -5,7 +5,7 @@
 ## Vấn đề: Sự thiếu riêng tư trên Blockchain
 Các blockchain công khai như Ethereum có một đặc tính cốt lõi là sự minh bạch. Mặc dù điều này rất tốt cho việc kiểm toán, nó lại là một thảm họa cho quyền riêng tư tài chính. Bất kỳ ai cũng có thể xem số dư ví của bạn, theo dõi mọi giao dịch bạn thực hiện, và phân tích các hoạt động tài chính của bạn. Sự thiếu riêng tư này có thể dẫn đến:
 
-Theo dõi không mong muốn: Các đối thủ cạnh tranh, nhà quảng cáo, hoặc kẻ xấu có thể theo dõi thói quen chi tiêu của bạn.
+- Theo dõi không mong muốn: Các đối thủ cạnh tranh, nhà quảng cáo, hoặc kẻ xấu có thể theo dõi thói quen chi tiêu của bạn.
 
 Front-running trong DeFi: Các bot có thể thấy các giao dịch lớn đang chờ xử lý và lợi dụng chúng.
 
@@ -16,7 +16,7 @@ AuraPay giải quyết vấn đề này bằng cách xây dựng một smart con
 
 Với AuraPay, số dư của bạn không còn là một con số công khai. Nó là một bản mã (ciphertext). Khi bạn gửi tiền, số tiền giao dịch cũng được mã hóa. Smart contract có thể xác minh rằng bạn có đủ tiền và thực hiện giao dịch mà không bao giờ cần giải mã bất kỳ thông tin nhạy cảm nào.
 
-✨ Tính năng cốt lõi
+## ✨ Tính năng cốt lõi
 Số dư được mã hóa: Số dư tài khoản của người dùng được lưu trữ on-chain dưới dạng bản mã euint.
 
 Giao dịch Kín: Số tiền được chuyển trong mỗi giao dịch hoàn toàn riêng tư.
