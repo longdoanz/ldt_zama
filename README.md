@@ -87,9 +87,9 @@ npx hardhat test
 ## Triển khai
 - Tạo một file .env từ file mẫu .env.example.
 
-Thêm PRIVATE_KEY của ví bạn muốn dùng để triển khai.
+- Thêm PRIVATE_KEY của ví bạn muốn dùng để triển khai.
 
-Chạy script triển khai (ví dụ cho mạng Fhenix testnet):
+- Chạy script triển khai (ví dụ cho mạng Fhenix testnet):
 
 ```npx hardhat run scripts/deploy.ts --network fhenix```
 
