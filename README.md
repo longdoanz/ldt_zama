@@ -85,7 +85,7 @@ Chạy Tests
 npx hardhat test
 
 ## Triển khai
-Tạo một file .env từ file mẫu .env.example.
+- Tạo một file .env từ file mẫu .env.example.
 
 Thêm PRIVATE_KEY của ví bạn muốn dùng để triển khai.
 
