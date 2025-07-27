@@ -19,11 +19,11 @@ Với AuraPay, số dư của bạn không còn là một con số công khai. N
 ## ✨ Tính năng cốt lõi
 Số dư được mã hóa: Số dư tài khoản của người dùng được lưu trữ on-chain dưới dạng bản mã euint.
 
-Giao dịch Kín: Số tiền được chuyển trong mỗi giao dịch hoàn toàn riêng tư.
+- Giao dịch Kín: Số tiền được chuyển trong mỗi giao dịch hoàn toàn riêng tư.
 
-Xác minh On-chain: Logic "kiểm tra số dư" được thực hiện hoàn toàn trên dữ liệu mã hóa, đảm bảo tính toàn vẹn mà không làm lộ thông tin.
+- Xác minh On-chain: Logic "kiểm tra số dư" được thực hiện hoàn toàn trên dữ liệu mã hóa, đảm bảo tính toàn vẹn mà không làm lộ thông tin.
 
-Giao diện tương tự ERC20: Cung cấp các hàm quen thuộc như transfer() và balanceOf() (với một chút khác biệt) để dễ dàng tích hợp.
+- Giao diện tương tự ERC20: Cung cấp các hàm quen thuộc như transfer() và balanceOf() (với một chút khác biệt) để dễ dàng tích hợp.
 
 Chống kiểm duyệt: Vì logic chạy trên một smart contract phi tập trung, không ai có thể ngăn chặn các giao dịch của bạn.
 
