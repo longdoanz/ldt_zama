@@ -25,7 +25,7 @@ Số dư được mã hóa: Số dư tài khoản của người dùng được 
 
 - Giao diện tương tự ERC20: Cung cấp các hàm quen thuộc như transfer() và balanceOf() (với một chút khác biệt) để dễ dàng tích hợp.
 
-Chống kiểm duyệt: Vì logic chạy trên một smart contract phi tập trung, không ai có thể ngăn chặn các giao dịch của bạn.
+- Chống kiểm duyệt: Vì logic chạy trên một smart contract phi tập trung, không ai có thể ngăn chặn các giao dịch của bạn.
 
 ## ⚙️ Cách hoạt động
 AuraPay sử dụng các kiểu dữ liệu và toán tử được cung cấp bởi thư viện FHEVM. Luồng hoạt động của một giao dịch diễn ra như sau:
