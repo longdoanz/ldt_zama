@@ -57,8 +57,8 @@ Thanh toán P2P cá nhân: Gửi tiền cho bạn bè và gia đình một cách
 
 - Airdrop riêng tư: Phân phối token cho người dùng mà không để lộ số lượng mỗi người nhận được.
 
-🛠️ Bắt đầu
-Điều kiện tiên quyết
+## 🛠️ Bắt đầu
+### Điều kiện tiên quyết
 Node.js (v18 trở lên)
 
 Git
